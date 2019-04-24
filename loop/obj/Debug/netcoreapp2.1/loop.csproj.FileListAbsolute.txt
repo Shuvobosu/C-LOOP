@@ -1,0 +1,11 @@
+F:\c#\loop\loop\bin\Debug\netcoreapp2.1\loop.deps.json
+F:\c#\loop\loop\bin\Debug\netcoreapp2.1\loop.runtimeconfig.json
+F:\c#\loop\loop\bin\Debug\netcoreapp2.1\loop.runtimeconfig.dev.json
+F:\c#\loop\loop\bin\Debug\netcoreapp2.1\loop.dll
+F:\c#\loop\loop\bin\Debug\netcoreapp2.1\loop.pdb
+F:\c#\loop\loop\obj\Debug\netcoreapp2.1\loop.csproj.CoreCompileInputs.cache
+F:\c#\loop\loop\obj\Debug\netcoreapp2.1\loop.AssemblyInfoInputs.cache
+F:\c#\loop\loop\obj\Debug\netcoreapp2.1\loop.AssemblyInfo.cs
+F:\c#\loop\loop\obj\Debug\netcoreapp2.1\loop.dll
+F:\c#\loop\loop\obj\Debug\netcoreapp2.1\loop.pdb
+F:\c#\loop\loop\obj\Debug\netcoreapp2.1\loop.csprojAssemblyReference.cache
